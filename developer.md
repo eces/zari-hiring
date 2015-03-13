@@ -112,5 +112,5 @@ CoffeeScript, LessCSS, Jade, Bootstrap, d3.js, Sketch
 
 사무실 근처 카페 [스타벅스](http://dmaps.kr/kwgg)에서 편안하게 대화를 나누고 싶습니다. 아래로 가능한 시간을 알려주세요 :)
 
-- [이메일 보내기](jinhyuk.lee@hlabs.kr)
+- [이메일 보내기](mailto:jinhyuk.lee@hlabs.kr)
 - [페이스북 메시지](https://www.facebook.com/jinhyuk92)
