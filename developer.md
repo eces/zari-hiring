@@ -1,3 +1,13 @@
+# 감사합니다. 2015년 3월 채용이 마감되었습니다.
+
+### 그래도 궁금하신 점은 아래로 메시지 남겨주세요.
+
+- [이메일 보내기](mailto:jhlee@yellomobile.com)
+- [페이스북 메시지](https://www.facebook.com/jinhyuk92)
+- [자리 서비스](http://zari.me)
+
+-------------
+
 옐로트래블 ZARI에서 서비스를 이끌어 갈 능력자를 찾습니다.
 
 ## 서비스 소개
@@ -14,7 +24,7 @@
 
 ## 회사 소개
 
-![아시아 NO.1 여행레저 그룹, 옐로트래블](http://www.yellotravel.com/wp-content/uploads/2014/09/logo_yello@2x.png) 
+![아시아 NO.1 여행레저 그룹, 옐로트래블](http://yellotravel.com/img/img_logo.png) 
 
 - 2014년 4월: H Labs(에이치랩스)가 3명으로 시작되었습니다. 
 - 2014년 10월: 끊임없는 노력과 개선으로 자리 베타서비스를 시작했고,  Global K 스타트업에서 수상했습니다.
